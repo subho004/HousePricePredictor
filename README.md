@@ -75,7 +75,7 @@ Contributions are welcome! If you want to contribute to this project, please fol
 - Submit a pull request to the main repository.
 
 ## Acknowledgments
-- Data source: [Bangalore House Price Prediction Dataset]([url](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data))
-- Flask: [Flask Web Framework]([url](https://flask.palletsprojects.com/))
-- Scikit-Learn: [Scikit-Learn Machine Learning Library]([url](https://scikit-learn.org/stable/))
-- Bootstrap: [Bootstrap Frontend Framework]([url](https://getbootstrap.com/)https://getbootstrap.com/)
+- Data source: **[Bangalore House Price Prediction Model](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data)**
+- Flask: **[Flask Web Framework](https://flask.palletsprojects.com/)**
+- Scikit-Learn: **[Scikit-Learn Machine Learning Library](https://scikit-learn.org/stable/)**
+- Bootstrap: **[Bootstrap Frontend Framework](https://getbootstrap.com/)**
